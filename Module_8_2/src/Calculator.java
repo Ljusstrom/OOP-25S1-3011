@@ -9,6 +9,7 @@ public class Calculator {
 
     /**
      * Internal function that checks for Integer overflow.
+     *
      * @param oper Operation that is being checked whether it produces and exception.
      * @throws IntegerOverflowException
      */
